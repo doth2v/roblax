@@ -5,5 +5,5 @@ local NotifyLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/vKh
  NotifyLib.prompt('Adonis Anti-Cheat Disabler Bypass', 'this only works for games that have adonis in it', 1.2)
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RelkzzRebranded/Bypassed---OBFUSCATED..../main/Adonis%20BYPASS.lua"))()
- wait(4)
+ wait(3)
 print("hi")
